@@ -1,5 +1,6 @@
 # Profile
 Kurniawan Try Yudha
+Mahasiswa PENS
 
 ## Description
 Hello, I'm Kurniawan Try Yudha, a Web Developer from Surabaya, Indonesia.
@@ -27,5 +28,5 @@ https://eepistelcom.web.app
 
 ## Contact
 - Email: ktyoedha@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ktyudha)
+- LinkedIn: [Linkedin ktyudha](https://www.linkedin.com/in/ktyudha)
 - Telegram: @ktyudha
