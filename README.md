@@ -1,18 +1,31 @@
-# Nama Proyek
+# Profile
+Kurniawan Try Yudha
 
-## Deskripsi
-Tuliskan deskripsi singkat tentang proyek atau diri Anda.
+## Description
+Hello, I'm Kurniawan Try Yudha, a Web Developer from Surabaya, Indonesia.
+I am a student and Junior Web Developer, I also have experience in computer network (MikroTik & Cisco),
+several Windows and Linux servers Debian, Ubuntu, and CentOS, several programming languages ​​(Php, Js, Java, and C),
+and also likes to work collaboratively.
 
-## Keterampilan
-- Keterampilan 1
-- Keterampilan 2
-- Keterampilan 3
+## Skills
+- Laravel
+- Vue 3 JS
+- Express Js
+- Firebase
 
-## Pengalaman
-- Pengalaman 1
-- Pengalaman 2
-- Pengalaman 3
+## Experiences
+- Build Rest API Laravel with Fortify Sunctum, 
+- as Frontend Vue 3 JS website Media ENT 
+https://ent.pens.ac.id/mediaent/
+- as Fullstack Web Dev on project Researcher Kontes Robot Terbang Indonesia (Express Js and Vue 3 JS with socket IO)
+- develop Mantenan Android Apps with Java Native and Firebase Auth, Realtime DB
+- develop Nabung Web App with Vue 3 and Firebas for record finances
+https://celenga-berkah.web.app
+- develop a class website to manage assignments, cash, and documentation
+https://eepistelcom.web.app
+- prepare server infrastructure and school internet access network with a hotspot radius (Mikrotik & CentOS 8)
 
-## Kontak
-- Email: your.email@example.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+## Contact
+- Email: ktyoedha@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ktyudha)
+- Telegram: @ktyudha
